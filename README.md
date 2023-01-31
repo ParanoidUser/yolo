@@ -1,1 +1,1 @@
-Hello, @Schweinepriester!
+Hello, world!
