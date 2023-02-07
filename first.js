@@ -25,3 +25,14 @@ function offLamp() {
     createButton.textContent = 'light lamp'
   }
 }
+function onLamp() {
+  lightLamp = !lightLamp
+
+  if (lightLamp) {
+    img.removeAttribute('src');
+    img.setAttribute('src', 'https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada-on.jpg?raw=true')
+  } else {
+    img.removeAttribute('src');
+    img.setAttribute('src', 'https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada.jpg?raw=true')
+  }
+}
