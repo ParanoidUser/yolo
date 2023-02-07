@@ -35,4 +35,10 @@ function onLamp() {
     img.removeAttribute('src');
     img.setAttribute('src', 'https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada.jpg?raw=true')
   }
+
+  offLamp()
 }
+
+divButton.addEventListener('click', onLamp)
+
+console.log(createButton)
