@@ -15,3 +15,13 @@ createButton.textContent = 'light lamp'
 divButton.appendChild(createButton)
 
 document.body.appendChild(divButton)
+
+let lightLamp = false
+
+function offLamp() {
+  if (lightLamp) {
+    createButton.textContent = 'delete lamp'
+  } else {
+    createButton.textContent = 'light lamp'
+  }
+}
