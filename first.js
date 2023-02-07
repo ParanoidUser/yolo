@@ -42,3 +42,4 @@ function onLamp() {
 divButton.addEventListener('click', onLamp)
 
 console.log(createButton)
+
