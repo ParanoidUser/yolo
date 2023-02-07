@@ -19,3 +19,7 @@
 ## Step 5 - Close pull request before review
 
 <img width="789" alt="image" src="https://user-images.githubusercontent.com/5120290/217349084-41094048-a468-4207-a768-e5794c891fff.png">
+
+# Help
+
+If you're stuck or need any assistance, please use [Discussions](https://github.com/ParanoidUser/yolo/discussions) for help.
