@@ -1,20 +1,9 @@
-function start() {
-  
-  let days = ['1', '2', '3','4', '5', '6','7']
+let div = document.createElement('div');
+let img = document.createElement('img');
+div.appendChild(img);
 
-  days.forEach((day) => {
-    console.log(day)
-  })
+document.body.appendChild(div);
 
-
-  days.map((day) => {
-    console.log(day)
-  })
-
-
-  for(let i = 0; i <= days.length; i++) {
-    console.log(days[i])
-  }
-}
-
-start()
+img.setAttribute('src', 'https://github.com/gabrieldarezzo/helpjs-ravi/blob/master/images/lampada.jpg?raw=true')
+img.style.width = '300px';
+img.style.height = '300px';
