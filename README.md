@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-02-13
+
+- [Pair Extraordinaire](https://github.com/users/ParanoidUser/achievements/pair-extraordinaire) earned by @ParanoidUser
+
 ## 2023-02-07
 
 - [YOLO](https://github.com/users/marcos-jesus/achievements/yolo) earned by @marcos-jesus
