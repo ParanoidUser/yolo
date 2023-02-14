@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ## 2023-02-13
 
 - [Pair Extraordinaire](https://github.com/users/ParanoidUser/achievements/pair-extraordinaire) earned by @ParanoidUser
+- [Pair Extraordinaire](https://github.com/users/marcos-jesus/achievements/pair-extraordinaire) earned by @marcos-jesus
 
 ## 2023-02-07
 
