@@ -26,3 +26,7 @@ Whether your goal is to master Git merging, help to solve an issue or ask for fe
 ## Credits ❤
 
  - Shout out to [@Schweinepriester & squad](https://github.com/Schweinepriester/github-profile-achievements) for all the achievement knowledge they shared.
+
+## Known Issues
+
+- We currently dont have information about couple of badges - `Heart On Your Sleeve	Heart` & `Open Sourcerer`. 
