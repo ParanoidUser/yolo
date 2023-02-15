@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-02-14
+
+- [Pair Extraordinaire](https://github.com/users/KR-Ravindra/achievements/pair-extraordinaire) earned by @KR-Ravindra
+- [Pair Extraordinaire](https://github.com/users/Lymengchun/achievements/pair-extraordinaire) earned by @Lymengchun
+
 ## 2023-02-13
 
 - [Pair Extraordinaire](https://github.com/users/ParanoidUser/achievements/pair-extraordinaire) earned by @ParanoidUser
