@@ -23,9 +23,14 @@ Whether your goal is to master Git merging, help to solve an issue or ask for fe
 ## Collaboration
 
  - There are no rules, but you break them at your peril.
- - There are no rules, but there are moderators who can clean-up any mess.
+ - There are no rules, but there are moderators who can clean up any mess.
  - The `main` branch is read-only and contains the minimum required items.
  - The `changeme` branch contains a changelog and is open for PRs.
+
+## Baby Steps
+
+- [How to earn YOLO?](https://github.com/ParanoidUser/yolo/discussions/18)
+- [How to earn Pair Extraordinaire?](https://github.com/ParanoidUser/yolo/discussions/26)
 
 ## Credits ❤
 
