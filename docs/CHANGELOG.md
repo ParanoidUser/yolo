@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## 2023-02-16
 - [YOLO](https://github.com/users/k1ri86/achievements/yolo) earned by @k1ri86
+- [Pair Extraordinaire](https://github.com/K1ri86?achievement=pair-extraordinaire&tab=achievements) earned by @k1ri86
 
 ## 2023-02-14
 
