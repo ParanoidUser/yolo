@@ -25,6 +25,7 @@ Whether your goal is to master Git merging, help to solve an issue or ask for fe
 - [7 clicks from YOLO](https://github.com/ParanoidUser/yolo/discussions/18)
 - [Pair Extraordinaire in < 1 min](https://github.com/ParanoidUser/yolo/discussions/26)
 - [Play Galaxy Brain trivia](https://github.com/ParanoidUser/yolo/discussions/48)
+- [About mysterious badges](https://github.com/ParanoidUser/yolo/discussions/30)
 
 ## Collaboration
 
