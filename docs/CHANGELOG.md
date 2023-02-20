@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-02-20
+- [YOLO](https://github.com/taotechs?tab=achievements&achievement=yolo) by @taotechs
+- [Pair Extraordinaire](https://github.com/taotechs?tab=achievements&achievement=pair-extraordinaire) by @taotechs
+
 ## 2023-02-19
 - [YOLO](https://github.com/JustGimli?tab=achievements&achievement=yolo) by @JustGimli
 - [Pair Extraordinaire](https://github.com/JustGimli?tab=achievements&achievement=pair-extraordinaire) by @JustGimli
