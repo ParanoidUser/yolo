@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-02-20
+- [YOLO](https://github.com/taotechs?tab=achievements&achievement=yolo) by @taotechs
+- [Galaxy Brain](https://github.com/PopiChan?achievement=galaxy-brain&tab=achievements) by @PopiChan
+
 ## 2023-02-19
 - [YOLO](https://github.com/JustGimli?tab=achievements&achievement=yolo) by @JustGimli
 - [Pair Extraordinaire](https://github.com/JustGimli?tab=achievements&achievement=pair-extraordinaire) by @JustGimli
@@ -9,6 +13,7 @@ All notable changes to this project will be documented in this file.
 ## 2023-02-16
 - [YOLO](https://github.com/NetJox4?tab=achievements&achievement=yolo) by @NetJox4
 - [Pair Extraordinaire](https://github.com/NetJox4?tab=achievements&achievement=pair-extraordinaire) by @NetJox4
+- [Pair Extraordinaire](https://github.com/taotechs?tab=achievements&achievement=pair-extraordinaire) by @taotechs
 
 ## 2023-02-14
 
