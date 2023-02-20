@@ -4,7 +4,8 @@ All notable changes to this project will be documented in this file.
 
 ## 2023-02-20
 - [YOLO](https://github.com/taotechs?tab=achievements&achievement=yolo) by @taotechs
-- [Galaxy Brain](https://github.com/PopiChan?achievement=galaxy-brain&tab=achievements) by @PopiChan
+- [Galaxy Brain](https://github.com/PopiChan?tab=achievements&achievement=galaxy-brain) by @PopiChan
+- [Galaxy Brain](https://github.com/EilonK05?tab=achievements&achievement=galaxy-brain) by @EilonK05
 
 ## 2023-02-19
 - [YOLO](https://github.com/JustGimli?tab=achievements&achievement=yolo) by @JustGimli
