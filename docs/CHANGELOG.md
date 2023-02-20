@@ -2,29 +2,33 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-02-19
+- [YOLO](https://github.com/JustGimli?tab=achievements&achievement=yolo) by @JustGimli
+- [Pair Extraordinaire](https://github.com/JustGimli?tab=achievements&achievement=pair-extraordinaire) by @JustGimli
+
 ## 2023-02-16
-- [YOLO](https://github.com/users/k1ri86/achievements/yolo) earned by @k1ri86
-- [Pair Extraordinaire](https://github.com/K1ri86?achievement=pair-extraordinaire) earned by @k1ri86
+- [YOLO](https://github.com/NetJox4?tab=achievements&achievement=yolo) by @NetJox4
+- [Pair Extraordinaire](https://github.com/NetJox4?tab=achievements&achievement=pair-extraordinaire) by @NetJox4
 
 ## 2023-02-14
 
-- [Pair Extraordinaire](https://github.com/users/KR-Ravindra/achievements/pair-extraordinaire) earned by @KR-Ravindra
-- [Pair Extraordinaire](https://github.com/users/Lymengchun/achievements/pair-extraordinaire) earned by @Lymengchun
+- [Pair Extraordinaire](https://github.com/KR-Ravindra?tab=achievements&achievement=pair-extraordinaire) by @KR-Ravindra
+- [Pair Extraordinaire](https://github.com/Lymengchun?tab=achievements&achievement=pair-extraordinaire) by @Lymengchun
 
 ## 2023-02-13
 
-- [Pair Extraordinaire](https://github.com/users/ParanoidUser/achievements/pair-extraordinaire) earned by @ParanoidUser
-- [Pair Extraordinaire](https://github.com/users/marcos-jesus/achievements/pair-extraordinaire) earned by @marcos-jesus
+- [Pair Extraordinaire](https://github.com/ParanoidUser?tab=achievements&achievement=pair-extraordinaire) by @ParanoidUser
+- [Pair Extraordinaire](https://github.com/marcos-jesus?tab=achievements&achievement=pair-extraordinaire) by @marcos-jesus
 
 ## 2023-02-07
 
-- [YOLO](https://github.com/users/marcos-jesus/achievements/yolo) earned by @marcos-jesus
-- [Pull Shark](https://github.com/users/marcos-jesus/achievements/pull-shark) earned by @marcos-jesus
+- [YOLO](https://github.com/marcos-jesus?tab=achievements&achievement=yolo) by @marcos-jesus
+- [Pull Shark](https://github.com/marcos-jesus?tab=achievements&achievement=pull-shark) by @marcos-jesus
 
 ## 2023-02-03
 
-- [YOLO](https://github.com/users/FleetAdmiralJakob/achievements/yolo) earned by @FleetAdmiralJakob
+- [YOLO](https://github.com/FleetAdmiralJakob?tab=achievements&achievement=yolo) by @FleetAdmiralJakob
 
 ## 2023-01-31
 
-- [YOLO](https://github.com/users/ParanoidUser/achievements/yolo) earned by @ParanoidUser
+- [YOLO](https://github.com/ParanoidUser?tab=achievements&achievement=yolo) by @ParanoidUser
