@@ -3,8 +3,10 @@
 All notable changes to this project will be documented in this file.
 
 ## 2023-02-22
+- [Pair Extraordinaire 🥉](https://github.com/ParanoidUser?tab=achievements&achievement=pair-extraordinaire) by @ParanoidUser
 - [Pair Extraordinaire](https://github.com/thuongtruong1009?tab=achievements&achievement=pair-extraordinaire) by @thuongtruong1009
 - [Pair Extraordinaire](https://github.com/FSa-git?tab=achievements&achievement=pair-extraordinaire) by @FSa-git
+- [Galaxy Brain](https://github.com/FSa-git?tab=achievements&achievement=galaxy-brain) by @FSa-git
 
 ## 2023-02-21
 - [Galaxy Brain 🥉](https://github.com/Tynab?tab=achievements&achievement=galaxy-brain) by @Tynab
