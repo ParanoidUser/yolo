@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-02-24
+- [Pair Extraordinaire](https://github.com/GerardoJuarezS?tab=achievements&achievement=pair-extraordinaire) by @GerardoJuarezS
+
 ## 2023-02-22
 - [Pair Extraordinaire 🥉](https://github.com/ParanoidUser?tab=achievements&achievement=pair-extraordinaire) by @ParanoidUser
 - [Pair Extraordinaire](https://github.com/thuongtruong1009?tab=achievements&achievement=pair-extraordinaire) by @thuongtruong1009
