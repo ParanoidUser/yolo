@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-02-25
+ - [Pair Extraordinaire](https://github.com/seldish-og?tab=achievements&achievement=pair-extraordinaire) by @seldish-og
+
 ## 2023-02-24
 - [Pair Extraordinaire](https://github.com/GerardoJuarezS?tab=achievements&achievement=pair-extraordinaire) by @GerardoJuarezS
 - [Galaxy Brain 🥉](https://github.com/NetJox4?tab=achievements&achievement=galaxy-brain) by @NetJox4
