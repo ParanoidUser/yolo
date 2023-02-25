@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file.
 
 ## 2023-02-25
+ - [YOLO](https://github.com/users/kjbaker-uk/achievements/yolo) by @kjbaker-uk
+ - [Pull Shark](https://github.com/users/kjbaker-uk/achievements/pull-shark) by @kjbaker-uk
+ 
+
+## 2023-02-25
  - [Pair Extraordinaire](https://github.com/seldish-og?tab=achievements&achievement=pair-extraordinaire) by @seldish-og
 
 ## 2023-02-24
