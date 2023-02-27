@@ -2,12 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-02-26
+ - [Pair Extraordinaire 🥉](https://github.com/KR-Ravindra?tab=achievements&achievement=pair-extraordinaire) by @KR-Ravindra
+
 ## 2023-02-25
  - [Pair Extraordinaire](https://github.com/seldish-og?tab=achievements&achievement=pair-extraordinaire) by @seldish-og
  - [YOLO](https://github.com/kjbaker-uk?tab=achievements&achievement=yolo) by @kjbaker-uk
  - [Pull Shark](https://github.com/kjbaker-uk?tab=achievements&achievement=pull-shark) by @kjbaker-uk
  - [Pair Extraordinaire](https://github.com/kjbaker-uk?tab=achievements&achievement=pair-extraordinaire) by @kjbaker-uk
  - [Galaxy Brain](https://github.com/kjbaker-uk?tab=achievements&achievement=galaxy-brain) by @kjbaker-uk
+ - [Pair Extraordinaire 🥉](https://github.com/Lymengchun?tab=achievements&achievement=pair-extraordinaire) by @Lymengchun
+ - [Pair Extraordinaire 🥉](https://github.com/marcos-jesus?tab=achievements&achievement=pair-extraordinaire) by @marcos-jesus
 
 ## 2023-02-24
 - [Pair Extraordinaire](https://github.com/GerardoJuarezS?tab=achievements&achievement=pair-extraordinaire) by @GerardoJuarezS
