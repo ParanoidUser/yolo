@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-02-28
+- [Galaxy Brain 🥇](https://github.com/Tynab?tab=achievements&achievement=galaxy-brain) by @Tynab
+
+## 2023-02-27
+ - [Pair Extraordinaire 🥉](https://github.com/JustGimli?tab=achievements&achievement=pair-extraordinaire) by @JustGimli
+ - [Pair Extraordinaire 🥉](https://github.com/sugandha27?tab=achievements&achievement=pair-extraordinaire) by @sugandha27
+ - [Pair Extraordinaire 🥉](https://github.com/taotechs?tab=achievements&achievement=pair-extraordinaire) by @taotechs
+ - [Pair Extraordinaire 🥉](https://github.com/NetJox4?tab=achievements&achievement=pair-extraordinaire) by @NetJox4
+ - [Pair Extraordinaire 🥉](https://github.com/FSa-git?tab=achievements&achievement=pair-extraordinaire) by @FSa-git
+ - [Pair Extraordinaire 🥉](https://github.com/PopiChan?tab=achievements&achievement=pair-extraordinaire) by @PopiChan
+ - [Pair Extraordinaire 🥉](https://github.com/doguedogue?tab=achievements&achievement=pair-extraordinaire) by @doguedogue
+ - [Pair Extraordinaire 🥉](https://github.com/thuongtruong1009?tab=achievements&achievement=pair-extraordinaire) by @thuongtruong1009
+
 ## 2023-02-26
  - [Pair Extraordinaire 🥉](https://github.com/KR-Ravindra?tab=achievements&achievement=pair-extraordinaire) by @KR-Ravindra
 
@@ -32,6 +45,7 @@ All notable changes to this project will be documented in this file.
 - [YOLO](https://github.com/taotechs?tab=achievements&achievement=yolo) by @taotechs
 - [Galaxy Brain](https://github.com/PopiChan?tab=achievements&achievement=galaxy-brain) by @PopiChan
 - [Galaxy Brain](https://github.com/EilonK05?tab=achievements&achievement=galaxy-brain) by @EilonK05
+- [Pair Extraordinaire](https://github.com/sugandha27?achievement=pair-extraordinaire&tab=achievements) by @sugandha27
 
 ## 2023-02-19
 - [YOLO](https://github.com/JustGimli?tab=achievements&achievement=yolo) by @JustGimli
