@@ -1,10 +1,12 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
+## 2023-03-02
+- [YOLO](https://github.com/YuetianW?tab=achievements&achievement=yolo) by @YuetianW
 
 ## 2023-03-01
 - [Quickdraw](https://github.com/YuetianW?tab=achievements&achievement=quickdraw) by @YuetianW
-- [Galaxy Brain][https://github.com/YuetianW?tab=achievements&achievement=galaxy-brain] by @YuetianW
+- [Galaxy Brain](https://github.com/YuetianW?tab=achievements&achievement=galaxy-brain) by @YuetianW
 
 ## 2023-02-28
 - [Galaxy Brain 🥇](https://github.com/Tynab?tab=achievements&achievement=galaxy-brain) by @Tynab
