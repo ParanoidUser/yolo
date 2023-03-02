@@ -3,10 +3,15 @@
 All notable changes to this project will be documented in this file.
 ## 2023-03-02
 - [YOLO](https://github.com/YuetianW?tab=achievements&achievement=yolo) by @YuetianW
+- [Galaxy Brain](https://github.com/sugandha27?tab=achievements&achievement=galaxy-brain) by @sugandha27
+- [Pair Extraordinaire 🥉](https://github.com/wavescats?tab=achievements&achievement=pair-extraordinaire) by @wavescats
+- [Pair Extraordinaire 🥉](https://github.com/live627?tab=achievements&achievement=pair-extraordinaire) by @live627
 
 ## 2023-03-01
 - [Quickdraw](https://github.com/YuetianW?tab=achievements&achievement=quickdraw) by @YuetianW
 - [Galaxy Brain](https://github.com/YuetianW?tab=achievements&achievement=galaxy-brain) by @YuetianW
+- [Pair Extraordinaire 🥉](https://github.com/twist0R?tab=achievements&achievement=pair-extraordinaire) by @twist0R
+- [Pair Extraordinaire 🥈](https://github.com/ParanoidUser?tab=achievements&achievement=pair-extraordinaire) by @ParanoidUser
 
 ## 2023-02-28
 - [Galaxy Brain 🥇](https://github.com/Tynab?tab=achievements&achievement=galaxy-brain) by @Tynab
