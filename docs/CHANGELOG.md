@@ -1,9 +1,14 @@
 # Changelog
 
 All notable changes to this project will be documented in this file.
+
+## 2023-03-03
+- [Galaxy Brain](https://github.com/Faiqlatheef?tab=achievements&achievement=galaxy-brain) by @Faiqlatheef
+
 ## 2023-03-02
 - [YOLO](https://github.com/YuetianW?tab=achievements&achievement=yolo) by @YuetianW
 - [Galaxy Brain](https://github.com/sugandha27?tab=achievements&achievement=galaxy-brain) by @sugandha27
+- [Galaxy Brain](https://github.com/t-haakens?tab=achievements&achievement=galaxy-brain) by @t-haakens
 - [Pair Extraordinaire 🥉](https://github.com/wavescats?tab=achievements&achievement=pair-extraordinaire) by @wavescats
 - [Pair Extraordinaire 🥉](https://github.com/live627?tab=achievements&achievement=pair-extraordinaire) by @live627
 
