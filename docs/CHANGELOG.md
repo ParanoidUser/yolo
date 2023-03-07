@@ -5,11 +5,15 @@ All notable changes to this project will be documented in this file.
 ## 2023-03-06
 - [Galaxy Brain](https://github.com/muink?tab=achievements&achievement=galaxy-brain) by @muink
 - [Galaxy Brain](https://github.com/MarieCamillePetit?tab=achievements&achievement=galaxy-brain) by @MarieCamillePetit
+- [Pair Extraordinaire](https://github.com/MarieCamillePetit?tab=achievements&achievement=pair-extraordinaire) by @MarieCamillePetit
+- [Pair Extraordinaire](https://github.com/muink?tab=achievements&achievement=pair-extraordinaire) by @muink
+- [Pair Extraordinaire](https://github.com/cucerdariancatalin?tab=achievements&achievement=pair-extraordinaire) by @cucerdariancatalin
 
 ## 2023-03-05
 - [Pair Extraordinaire](https://github.com/AvinandanBose?tab=achievements&achievement=pair-extraordinaire) by @AvinandanBose
 - [Pair Extraordinaire](https://github.com/JulioG516?tab=achievements&achievement=pair-extraordinaire) by @JulioG516
 - [Pair Extraordinaire](https://github.com/PENEKhun?tab=achievements&achievement=pair-extraordinaire) by @PENEKhun
+- [Pair Extraordinaire](https://github.com/FleetAdmiralJakob?tab=achievements&achievement=pair-extraordinaire) by @FleetAdmiralJakob
 
 ## 2023-03-04
 - [Galaxy Brain 🥈](https://github.com/thuongtruong1009?tab=achievements&achievement=galaxy-brain) by @thuongtruong1009
