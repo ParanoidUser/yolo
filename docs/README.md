@@ -37,3 +37,4 @@ Whether your goal is to master Git merging, help to solve an issue or ask for fe
 ## Credits ❤
 
  - Shout out to [@Schweinepriester & squad](https://github.com/Schweinepriester/github-profile-achievements) for all the achievement knowledge they shared.
+ - Hats off to [@nathanielop for scripts](https://github.com/nathanielop/achievements) that automate badge hunting using the GitHub API. 
