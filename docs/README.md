@@ -20,7 +20,7 @@ Whether your goal is to master Git merging, help to solve an issue or ask for fe
 - Click through to get a signature [YOLO badge](https://github.com/ParanoidUser/yolo/discussions/18) (*it's only 7 clicks away*).
 - Follow baby steps to earn [Pair Extraordinaire](https://github.com/ParanoidUser/yolo/discussions/26) (*tip: you can earn it for other folks*).
 - Read the latest news about the [Mysterious badges](https://github.com/ParanoidUser/yolo/discussions/30) (*yet to be discovered*).
-- Consider supporting the project by becoming a [sponsor](https://github.com/sponsors/ParanoidUser) (*and yes, there is a special badge for it* 😊).
+- Consider supporting the project by becoming a [sponsor](https://github.com/sponsors/ParanoidUser?frequency=one-time) (*and yes, there is a special badge for it* 😊).
 
 ## Credits ❤
 
