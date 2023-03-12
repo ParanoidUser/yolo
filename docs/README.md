@@ -16,23 +16,11 @@ Whether your goal is to master Git merging, help to solve an issue or ask for fe
 
 ## Where to start?
 
- - If you have a question or need any assistance, the [Q&A](https://github.com/ParanoidUser/yolo/discussions/categories/q-a) thread is open to everyone. Feel free to share your thoughts.
- - If you would like to join the community, leave a message in the [Subscribe](https://github.com/ParanoidUser/yolo/discussions/categories/subscribe) thread. An invitation will be sent within 24 hours.
- - If you are a collaborator, feel at home. Don't hesitate to open issues / PRs, or whatever it takes to earn a badge.
-
-## Follow baby steps
-
-- [7 clicks from YOLO](https://github.com/ParanoidUser/yolo/discussions/18)
-- [Pair Extraordinaire in < 1 min](https://github.com/ParanoidUser/yolo/discussions/26)
-- [Play Galaxy Brain trivia](https://github.com/ParanoidUser/yolo/discussions/48)
-- [About mysterious badges](https://github.com/ParanoidUser/yolo/discussions/30)
-
-## Collaboration
-
- - There are no rules, but you break them at your peril.
- - There are no rules, but there are moderators who can clean up any mess.
- - The `main` branch is read-only and contains the minimum required items.
- - The `changeme` branch contains a changelog and is open for PRs.
+- Play [Galaxy Trivia](https://github.com/ParanoidUser/yolo/discussions/categories/galaxy-trivia?discussions_q=category%3A%22Galaxy+Trivia%22+is%3Aunanswered) for a chance to win **Galaxy Brain** (*new questions posted daily*).
+- Click through to get a signature [YOLO badge](https://github.com/ParanoidUser/yolo/discussions/18) (*it's only 7 clicks away*).
+- Follow baby steps to earn [Pair Extraordinaire](https://github.com/ParanoidUser/yolo/discussions/26) (*tip: you can earn it for other folks*).
+- Read the latest news about the [Mysterious badges](https://github.com/ParanoidUser/yolo/discussions/30) (*yet to be discovered*).
+- Consider supporting the project by becoming a [sponsor](https://github.com/sponsors/ParanoidUser) (*and yes, there is a special badge for it* 😊).
 
 ## Credits ❤
 
