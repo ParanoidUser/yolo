@@ -3,8 +3,11 @@
 All notable changes to this project will be documented in this file.
 
 ## 2023-03-12
+- [Quickdraw](https://github.com/MeeL1ght?tab=achievements&achievement=quickdraw) by @MeeL1ght
 - [Galaxy Brain 🥉](https://github.com/muink?tab=achievements&achievement=galaxy-brain) by @muink
 - [Galaxy Brain](https://github.com/live627?tab=achievements&achievement=galaxy-brain) by @live627
+- [Galaxy Brain](https://github.com/MeeL1ght?tab=achievements&achievement=galaxy-brain) by @MeeL1ght
+- [Pair Extraordinaire](https://github.com/MeeL1ght?tab=achievements&achievement=pair-extraordinaire) by @MeeL1ght
 
 ## 2023-03-10
 - [Pair Extraordinaire](https://github.com/Malinowsk?tab=achievements&achievement=pair-extraordinaire) by @Malinowsk
