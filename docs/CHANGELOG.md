@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-03-13
+- [Pair Extraordinaire](https://github.com/darko5r?tab=achievements&achievement=pair-extraordinaire) by @darko5r
+- [Pair Extraordinaire](https://github.com/ItsNotAlexy?tab=achievements&achievement=pair-extraordinaire) by @ItsNotAlexy
+- [Pair Extraordinaire](https://github.com/ZH1995?tab=achievements&achievement=pair-extraordinaire) by @ZH1995
+
 ## 2023-03-12
 - [Quickdraw](https://github.com/MeeL1ght?tab=achievements&achievement=quickdraw) by @MeeL1ght
 - [Galaxy Brain 🥉](https://github.com/muink?tab=achievements&achievement=galaxy-brain) by @muink
@@ -20,6 +25,7 @@ All notable changes to this project will be documented in this file.
 - [Galaxy Brain](https://github.com/narayan954?tab=achievements&achievement=galaxy-brain) by @narayan954
 - [Galaxy Brain](https://github.com/LauraBigoni?tab=achievements&achievement=galaxy-brain) by @LauraBigoni
 - [Pair Extraordinaire 🥈](https://github.com/marcos-jesus?tab=achievements&achievement=pair-extraordinaire) by @marcos-jesus
+- [Pair Extraordinaire 🥉](https://github.com/YuetianW?tab=achievements&achievement=pair-extraordinaire) by @YuetianW
 
 ## 2023-03-07
 - [Pair Extraordinaire](https://github.com/DurandSacha?tab=achievements&achievement=pair-extraordinaire) by @DurandSacha
