@@ -3,6 +3,7 @@
 All notable changes to this project will be documented in this file.
 
 ## 2023-03-13
+- [Galaxy Brain](https://github.com/RexRowan?tab=achievements&achievement=galaxy-brain) by @RexRowan
 - [Pair Extraordinaire](https://github.com/darko5r?tab=achievements&achievement=pair-extraordinaire) by @darko5r
 - [Pair Extraordinaire](https://github.com/ItsNotAlexy?tab=achievements&achievement=pair-extraordinaire) by @ItsNotAlexy
 - [Pair Extraordinaire](https://github.com/ZH1995?tab=achievements&achievement=pair-extraordinaire) by @ZH1995
