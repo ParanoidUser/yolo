@@ -3,6 +3,8 @@
 All notable changes to this project will be documented in this file.
 
 ## 2023-03-18
+- [Quickdraw](https://github.com/trevorwang?tab=achievements&achievement=quickdraw) by @trevorwang
+- [Galaxy Brain](https://github.com/teafoot?tab=achievements&achievement=galaxy-brain) by @teafoot
 - [Pair Extraordinaire](https://github.com/teafoot?tab=achievements&achievement=pair-extraordinaire) by @teafoot
 
 ## 2023-03-17
