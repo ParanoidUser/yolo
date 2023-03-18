@@ -3,10 +3,11 @@
 All notable changes to this project will be documented in this file.
 
 ## 2023-03-18
+- [Sponsor 👑](https://github.com/teafoot?tab=achievements&achievement=public-sponsor) by @teafoot
+- [YOLO](https://github.com/teafoot?tab=achievements&achievement=yolo) by @teafoot
 - [Quickdraw](https://github.com/trevorwang?tab=achievements&achievement=quickdraw) by @trevorwang
 - [Galaxy Brain](https://github.com/teafoot?tab=achievements&achievement=galaxy-brain) by @teafoot
 - [Pair Extraordinaire](https://github.com/teafoot?tab=achievements&achievement=pair-extraordinaire) by @teafoot
-- [YOLO](https://github.com/teafoot?tab=achievements&achievement=yolo) by @teafoot
 
 ## 2023-03-17
 - [Pair Extraordinaire](https://github.com/trevorwang?tab=achievements&achievement=pair-extraordinaire) by @trevorwang
