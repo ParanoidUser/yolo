@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-03-20
+- [Galaxy Brain 🥉](https://github.com/peterbaccaro?tab=achievements&achievement=galaxy-brain) by @peterbaccaro
+- [Pair Extraordinaire](https://github.com/wfrsk?tab=achievements&achievement=pair-extraordinaire) by @wfrsk
+
 ## 2023-03-19
 - [Galaxy Brain](https://github.com/GameExplorer?tab=achievements&achievement=galaxy-brain) by @GameExplorer
 - [Pair Extraordinaire](https://github.com/bm4578?tab=achievements&achievement=pair-extraordinaire) by @bm4578
