@@ -1,7 +1,7 @@
 # GitHub badge hunting 🏹🦌
 
 [![hits](https://img.shields.io/badge/dynamic/xml?color=success&label=views&query=//*[name()=%27text%27][3]&url=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParanoidUser%2Fyolo)](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/ParanoidUser/yolo)
-[![badges](https://img.shields.io/badge/badge%20hunt-131-red.svg)](https://github.com/ParanoidUser/yolo/blob/main/docs/CHANGELOG.md)
+[![badges](https://img.shields.io/badge/badge%20hunt-132-red.svg)](https://github.com/ParanoidUser/yolo/blob/main/docs/CHANGELOG.md)
 [![discussions](https://img.shields.io/github/discussions/ParanoidUser/yolo?color=%23ED8936)](https://github.com/ParanoidUser/yolo/discussions)
 
 Welcome aboard, fellow developer! This is the place where you can hunt down (and even catch) one of those shiny [GitHub badges](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) for your profile. The mission is simple: *collaborate, have fun, and earn badges*.
@@ -18,6 +18,7 @@ Whether your goal is to master Git merging, help to solve an issue or ask for fe
 
 - Play [Galaxy Trivia](https://github.com/ParanoidUser/yolo/discussions/categories/galaxy-trivia?discussions_q=category%3A%22Galaxy+Trivia%22+is%3Aunanswered) for a chance to win **Galaxy Brain** (*new questions posted daily*).
 - Click through to get a signature [YOLO badge](https://github.com/ParanoidUser/yolo/discussions/18) (*it's only 7 clicks away*).
+- Get your project promoted with [Starstruck](https://github.com/ParanoidUser/yolo/discussions/385) (*current rate: 16 stars each*).
 - Follow baby steps to earn [Pair Extraordinaire](https://github.com/ParanoidUser/yolo/discussions/26) (*tip: you can earn it for other folks*).
 - Read the latest news about the [Mysterious badges](https://github.com/ParanoidUser/yolo/discussions/30) (*yet to be discovered*).
 - Consider supporting the project by becoming a [sponsor](https://github.com/sponsors/ParanoidUser?frequency=one-time) (*and yes, there is a special badge for it* 😊).
