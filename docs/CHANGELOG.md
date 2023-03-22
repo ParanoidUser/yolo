@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-03-21
+- [Pair Extraordinaire](https://github.com/Flet?tab=achievements&achievement=pair-extraordinaire) by @Flet
+
 ## 2023-03-20
 - [Galaxy Brain 🥉](https://github.com/peterbaccaro?tab=achievements&achievement=galaxy-brain) by @peterbaccaro
 - [Pair Extraordinaire](https://github.com/wfrsk?tab=achievements&achievement=pair-extraordinaire) by @wfrsk
