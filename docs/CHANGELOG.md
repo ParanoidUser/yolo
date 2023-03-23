@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-03-23
+- [Pair Extraordinaire](https://github.com/Sanjaypranav?tab=achievements&achievement=pair-extraordinaire) by @Sanjaypranav
+- [Pair Extraordinaire](https://github.com/Presstomsk?tab=achievements&achievement=pair-extraordinaire) by @Presstomsk
+- [Pair Extraordinaire](https://github.com/Mritunjaysri01?tab=achievements&achievement=pair-extraordinaire) by @Mritunjaysri01
+- [Pair Extraordinaire](https://github.com/dee7ine?tab=achievements&achievement=pair-extraordinaire) by @dee7ine
+- [Pair Extraordinaire](https://github.com/Dentax?tab=achievements&achievement=pair-extraordinaire) by @Dentax
+
 ## 2023-03-21
 - [Pair Extraordinaire](https://github.com/Flet?tab=achievements&achievement=pair-extraordinaire) by @Flet
 
