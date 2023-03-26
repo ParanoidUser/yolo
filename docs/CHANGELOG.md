@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-04-26
+- [Pair Extraordinaire](https://github.com/miladkhalighi?tab=achievements&achievement=pair-extraordinaire) by @miladkhalighi
+- [Pair Extraordinaire](https://github.com/rudemex?tab=achievements&achievement=pair-extraordinaire) by @rudemex
+- [Pair Extraordinaire](https://github.com/percesus?tab=achievements&achievement=pair-extraordinaire) by @percesus
+- [Pair Extraordinaire](https://github.com/ankushshinde755?tab=achievements&achievement=pair-extraordinaire) by @ankushshinde755
+- [Pair Extraordinaire](https://github.com/AxelChristiant?tab=achievements&achievement=pair-extraordinaire) by @AxelChristiant
+
 ## 2023-04-25
 - [Pair Extraordinaire](https://github.com/NobleOsinachi?tab=achievements&achievement=pair-extraordinaire) by @NobleOsinachi
 - [Pair Extraordinaire](https://github.com/OneEyeX?tab=achievements&achievement=pair-extraordinaire) by @OneEyeX
