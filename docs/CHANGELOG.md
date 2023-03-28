@@ -2,8 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-04-28
+- [Galaxy Brain 🥇](https://github.com/peterbaccaro?tab=achievements&achievement=galaxy-brain) by @peterbaccaro
+- [Galaxy Brain](https://github.com/alirezazahiri?tab=achievements&achievement=galaxy-brain) by @alirezazahiri
+
 ## 2023-04-27
 - [YOLO](https://github.com/alirezazahiri?tab=achievements&achievement=yolo) by @alirezazahiri
+- [YOLO](https://github.com/DrakonZZZ?tab=achievements&achievement=yolo) by @DrakonZZZ
+- [YOLO](https://github.com/guojunliu?tab=achievements&achievement=yolo) by @guojunliu
+- [Pull Shark](https://github.com/DrakonZZZ?tab=achievements&achievement=pull-shark) by @DrakonZZZ
 - [Galaxy Brain](https://github.com/siddarthkay?tab=achievements&achievement=galaxy-brain) by @siddarthkay
 - [Galaxy Brain](https://github.com/kylekce?tab=achievements&achievement=galaxy-brain) by @kylekce
 - [Galaxy Brain](https://github.com/soto-sergio?tab=achievements&achievement=galaxy-brain) by @soto-sergio
