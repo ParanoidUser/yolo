@@ -2,9 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-04-29
+- [Pair Extraordinaire](https://github.com/Taky0nDon?tab=achievements&achievement=pair-extraordinaire) by @Taky0nDon
+
 ## 2023-04-28
 - [Galaxy Brain 🥇](https://github.com/peterbaccaro?tab=achievements&achievement=galaxy-brain) by @peterbaccaro
 - [Galaxy Brain](https://github.com/alirezazahiri?tab=achievements&achievement=galaxy-brain) by @alirezazahiri
+- [Pair Extraordinaire](https://github.com/DrakonZZZ?tab=achievements&achievement=pair-extraordinaire) by @DrakonZZZ
 
 ## 2023-04-27
 - [YOLO](https://github.com/alirezazahiri?tab=achievements&achievement=yolo) by @alirezazahiri
