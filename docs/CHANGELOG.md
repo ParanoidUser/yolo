@@ -4,6 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## 2023-04-29
 - [Pair Extraordinaire](https://github.com/Taky0nDon?tab=achievements&achievement=pair-extraordinaire) by @Taky0nDon
+- [Pair Extraordinaire](https://github.com/dualsgo?tab=achievements&achievement=pair-extraordinaire) by @dualsgo
 
 ## 2023-04-28
 - [Galaxy Brain 🥇](https://github.com/peterbaccaro?tab=achievements&achievement=galaxy-brain) by @peterbaccaro
