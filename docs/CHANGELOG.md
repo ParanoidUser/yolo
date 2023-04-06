@@ -2,8 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-04-06
+- [Pair Extraordinaire](https://github.com/JeanSolorzano?tab=achievements&achievement=pair-extraordinaire) by @JeanSolorzano
+- [Pair Extraordinaire](https://github.com/Spectrum5?tab=achievements&achievement=pair-extraordinaire) by @Spectrum5
+- [Pair Extraordinaire](https://github.com/andrew-johnson-4?tab=achievements&achievement=pair-extraordinaire) by @andrew-johnson-4
+- [Pair Extraordinaire](https://github.com/Hollytryx?tab=achievements&achievement=pair-extraordinaire) by @Hollytryx
+- [Pair Extraordinaire](https://github.com/godkingjay?tab=achievements&achievement=pair-extraordinaire) by @godkingjay
+
 ## 2023-04-05
+- [Quickdraw](https://github.com/mayankjaiswal1709?tab=achievements&achievement=quickdraw) by @mayankjaiswal1709
+- [Pull Shark](https://github.com/mayankjaiswal1709?tab=achievements&achievement=pull-shark) by @mayankjaiswal1709
 - [Galaxy Brain](https://github.com/mayankjaiswal1709?tab=achievements&achievement=galaxy-brain) by @mayankjaiswal1709
+- [Pair Extraordinaire](https://github.com/demariamed?tab=achievements&achievement=pair-extraordinaire) by @demariamed
 
 ## 2023-04-04
 - [Pair Extraordinaire](https://github.com/PARKER-X?tab=achievements&achievement=pair-extraordinaire) by @PARKER-X
