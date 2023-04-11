@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-04-11
+- [Pair Extraordinaire](https://github.com/AlienegraGeek?tab=achievements&achievement=pair-extraordinaire) by @AlienegraGeek
+
+## 2023-04-10
+- [Quickdraw](https://github.com/juletopi?tab=achievements&achievement=quickdraw) by @juletopi
+- [Pair Extraordinaire](https://github.com/juletopi?tab=achievements&achievement=pair-extraordinaire) by @juletopi
+
+## 2023-04-07
+- [YOLO](https://github.com/mayankjaiswal1709?tab=achievements&achievement=yolo) by @mayankjaiswal1709
+
 ## 2023-04-06
 - [Pair Extraordinaire](https://github.com/JeanSolorzano?tab=achievements&achievement=pair-extraordinaire) by @JeanSolorzano
 - [Pair Extraordinaire](https://github.com/Spectrum5?tab=achievements&achievement=pair-extraordinaire) by @Spectrum5
