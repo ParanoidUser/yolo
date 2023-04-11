@@ -1,3 +1,6 @@
+107 bottles of rum on the wall, 107 bottles of rum!  
+You take one down, you pass it around, 106 bottles of rum on the wall.
+
 106 bottles of rum on the wall, 106 bottles of rum!  
 You take one down, you pass it around, 105 bottles of rum on the wall.
 
