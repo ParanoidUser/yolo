@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-04-13
+- [Galaxy Brain](https://github.com/Veercodeprog?tab=achievements&achievement=galaxy-brain) by @Veercodeprog
+
+## 2023-04-12
+- [Galaxy Brain](https://github.com/AlienegraGeek?tab=achievements&achievement=galaxy-brain) by @AlienegraGeek
+- [Pair Extraordinaire](https://github.com/Veercodeprog?tab=achievements&achievement=pair-extraordinaire) by @Veercodeprog
+
 ## 2023-04-11
 - [Pair Extraordinaire](https://github.com/AlienegraGeek?tab=achievements&achievement=pair-extraordinaire) by @AlienegraGeek
 
