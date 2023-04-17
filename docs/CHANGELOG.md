@@ -2,8 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-04-15
+- [Galaxy Brain](https://github.com/SumitKar01?tab=achievements&achievement=galaxy-brain) by @SumitKar01
+
+## 2023-04-14
+- [Galaxy Brain](https://github.com/SebastienXia?tab=achievements&achievement=galaxy-brain) by @SebastienXia
+
 ## 2023-04-13
+- [YOLO](https://github.com/SebastienXia?tab=achievements&achievement=yolo) by @SebastienXia
 - [Galaxy Brain](https://github.com/Veercodeprog?tab=achievements&achievement=galaxy-brain) by @Veercodeprog
+- [Pair Extraordinaire](https://github.com/SebastienXia?tab=achievements&achievement=pair-extraordinaire) by @SebastienXia
 
 ## 2023-04-12
 - [Galaxy Brain](https://github.com/AlienegraGeek?tab=achievements&achievement=galaxy-brain) by @AlienegraGeek
