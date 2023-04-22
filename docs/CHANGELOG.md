@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-04-21
+- [Galaxy Brain](https://github.com/Meriem-BM?tab=achievements&achievement=galaxy-brain) by @Meriem-BM
+- [Pair Extraordinaire](https://github.com/umlaeute?tab=achievements&achievement=pair-extraordinaire) by @umlaeute
+- [Pair Extraordinaire](https://github.com/alejandroch1202?tab=achievements&achievement=pair-extraordinaire) by @alejandroch1202
+- [Pair Extraordinaire](https://github.com/hassoonsy2?tab=achievements&achievement=pair-extraordinaire) by @hassoonsy2
+- [Pair Extraordinaire](https://github.com/NJacksonDev?tab=achievements&achievement=pair-extraordinaire) by @NJacksonDev
+- [Pair Extraordinaire](https://github.com/nsafarova?tab=achievements&achievement=pair-extraordinaire) by @nsafarova
+- [Pair Extraordinaire](https://github.com/hikarukuri?tab=achievements&achievement=pair-extraordinaire) by @hikarukuri
+
+## 2023-04-19
+- [Galaxy Brain](https://github.com/alejandroch1202?tab=achievements&achievement=galaxy-brain) by @alejandroch1202
+
 ## 2023-04-15
 - [Galaxy Brain](https://github.com/SumitKar01?tab=achievements&achievement=galaxy-brain) by @SumitKar01
 
