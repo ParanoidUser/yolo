@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-04-28
+- [Galaxy Brain](https://github.com/DevElkami?tab=achievements&achievement=galaxy-brain) by @DevElkami
+
+## 2023-04-27
+- [Pair Extraordinaire](https://github.com/DelrosarioRovic?tab=achievements&achievement=pair-extraordinaire) by @DelrosarioRovic
+- [Pair Extraordinaire](https://github.com/DevElkami?tab=achievements&achievement=pair-extraordinaire) by @DevElkami
+
+## 2023-04-26
+- [Galaxy Brain](https://github.com/nsafarova?tab=achievements&achievement=galaxy-brain) by @nsafarova
+- [Galaxy Brain](https://github.com/MohammedNayeem9?tab=achievements&achievement=galaxy-brain) by @MohammedNayeem9
+- [Pair Extraordinaire](https://github.com/MohammedNayeem9?tab=achievements&achievement=pair-extraordinaire) by @MohammedNayeem9
+- [Pair Extraordinaire](https://github.com/athenaweb629?tab=achievements&achievement=pair-extraordinaire) by @athenaweb629
+
+## 2023-04-23
+- [Quickdraw](https://github.com/Rfkgaming89?tab=achievements&achievement=quickdraw) by @Rfkgaming89
+
+## 2023-04-22
+- [Pair Extraordinaire](https://github.com/hikarukuri?tab=achievements&achievement=pair-extraordinaire) by @hikarukuri
+
 ## 2023-04-21
 - [Galaxy Brain](https://github.com/Meriem-BM?tab=achievements&achievement=galaxy-brain) by @Meriem-BM
 - [Pair Extraordinaire](https://github.com/umlaeute?tab=achievements&achievement=pair-extraordinaire) by @umlaeute
@@ -9,7 +28,6 @@ All notable changes to this project will be documented in this file.
 - [Pair Extraordinaire](https://github.com/hassoonsy2?tab=achievements&achievement=pair-extraordinaire) by @hassoonsy2
 - [Pair Extraordinaire](https://github.com/NJacksonDev?tab=achievements&achievement=pair-extraordinaire) by @NJacksonDev
 - [Pair Extraordinaire](https://github.com/nsafarova?tab=achievements&achievement=pair-extraordinaire) by @nsafarova
-- [Pair Extraordinaire](https://github.com/hikarukuri?tab=achievements&achievement=pair-extraordinaire) by @hikarukuri
 
 ## 2023-04-19
 - [Galaxy Brain](https://github.com/alejandroch1202?tab=achievements&achievement=galaxy-brain) by @alejandroch1202
