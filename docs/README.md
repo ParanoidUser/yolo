@@ -1,7 +1,7 @@
 # GitHub badge hunting 🏹🦌
 
 [![hits](https://img.shields.io/badge/dynamic/xml?color=success&label=views&query=//*[name()=%27text%27][3]&url=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FParanoidUser%2Fyolo)](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/ParanoidUser/yolo)
-[![badges](https://img.shields.io/badge/badge%20hunt-208-red.svg)](https://github.com/ParanoidUser/yolo/blob/main/docs/CHANGELOG.md)
+[![badges](https://img.shields.io/badge/badge%20hunt-216-red.svg)](https://github.com/ParanoidUser/yolo/blob/main/docs/CHANGELOG.md)
 [![discussions](https://img.shields.io/github/discussions/ParanoidUser/yolo?color=%23ED8936)](https://github.com/ParanoidUser/yolo/discussions)
 
 Welcome aboard, fellow developer! This is the place where you can hunt down (and even catch) one of those shiny [GitHub badges](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) for your profile. The mission is simple: *collaborate, have fun, and earn badges*.
