@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-05-07
+- [Pair Extraordinaire](https://github.com/CiprianAmza?tab=achievements&achievement=pair-extraordinaire) by @CiprianAmza
+- [Pair Extraordinaire](https://github.com/ArtinMoghadasi?tab=achievements&achievement=pair-extraordinaire) by @ArtinMoghadasi
+- [Pair Extraordinaire](https://github.com/CodingWithEnjoy?tab=achievements&achievement=pair-extraordinaire) by @CodingWithEnjoy
+
+## 2023-05-05
+- [Galaxy Brain 🥉](https://github.com/DevElkami?tab=achievements&achievement=galaxy-brain) by @DevElkami
+
+## 2023-05-04
+- [Galaxy Brain](https://github.com/SANKARAMDAS?achievement=galaxy-brain&tab=achievements) by @SANKARAMDAS
+
+## 2023-05-02
+- [Galaxy Brain](https://github.com/valeraqwe?tab=achievements&achievement=galaxy-brain) by @valeraqwe
+
+## 2023-05-01
+- [Pair Extraordinaire](https://github.com/SANKARAMDAS?tab=achievements&achievement=pair-extraordinaire) by @SANKARAMDAS
+- [Pair Extraordinaire](https://github.com/valeraqwe?tab=achievements&achievement=pair-extraordinaire) by @valeraqwe
+- [Pair Extraordinaire](https://github.com/jvsdo?tab=achievements&achievement=pair-extraordinaire) by @jvsdo
+
+## 2023-04-30
+- [Galaxy Brain](https://github.com/FleetAdmiralJakob?tab=achievements&achievement=galaxy-brain) by @FleetAdmiralJakob
+
 ## 2023-04-28
 - [Galaxy Brain](https://github.com/DevElkami?tab=achievements&achievement=galaxy-brain) by @DevElkami
 
