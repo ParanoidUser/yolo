@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-05-30
+- [Galaxy Brain](https://github.com/Carol42?tab=achievements&achievement=galaxy-brain) by @Carol42
+
 ## 2023-05-28
 - [Pair Extraordinaire](https://github.com/Carol42?tab=achievements&achievement=pair-extraordinaire) by @Carol42
 - [Pair Extraordinaire](https://github.com/anjutares?tab=achievements&achievement=pair-extraordinaire) by @anjutares
