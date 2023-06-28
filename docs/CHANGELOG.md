@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-06-26
+- [Galaxy Brain](https://github.com/CelioAmaral?tab=achievements&achievement=galaxy-brain) by @CelioAmaral
+
 ## 2023-06-20
 - [Pair Extraordinaire](https://github.com/CelioAmaral?tab=achievements&achievement=pair-extraordinaire) by @CelioAmaral
 
