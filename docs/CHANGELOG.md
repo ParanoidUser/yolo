@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-07-02
+- [Galaxy Brain](https://github.com/Sriansh-raj?tab=achievements&achievement=galaxy-brain) by @Sriansh-raj
+  
 ## 2023-06-27
 - [Pair Extraordinaire](https://github.com/Sriansh-raj?tab=achievements&achievement=pair-extraordinaire) by @Sriansh-raj
 
