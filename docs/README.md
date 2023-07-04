@@ -16,7 +16,7 @@ Whether your goal is to master Git merging, help to solve an issue or ask for fe
 
 ## Where to start?
 
-- Play [Galaxy Trivia](https://github.com/ParanoidUser/yolo/discussions/categories/galaxy-trivia?discussions_q=category%3A%22Galaxy+Trivia%22+is%3Aunanswered) for a chance to win **Galaxy Brain** (*new questions posted daily*).
+- Play [Galaxy Trivia](https://github.com/ParanoidUser/yolo/discussions/categories/galaxy-trivia?discussions_q=category%3A%22Galaxy+Trivia%22+is%3Aunanswered+is%3Aopen) for a chance to win **Galaxy Brain** (*new questions posted daily*).
 - Click through to get a signature [YOLO badge](https://github.com/ParanoidUser/yolo/discussions/18) (*it's only 7 clicks away*).
 - Get your project promoted with [Starstruck](https://github.com/ParanoidUser/yolo/discussions/385) (*current rate: 16 stars each*).
 - Follow baby steps to earn [Pair Extraordinaire](https://github.com/ParanoidUser/yolo/discussions/26) (*tip: you can earn it for other folks*).
