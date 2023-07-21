@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-07-21
+- [YOLO](https://github.com/NomanGhiasy?achievement=yolo&tab=achievements) by @NomanGhiasy
+- [Pair Extraordinaire](https://github.com/NomanGhiasy?achievement=pair-extraordinaire&tab=achievements) by @NomanGhiasy
+
 ## 2023-07-02
 - [Galaxy Brain](https://github.com/Sriansh-raj?tab=achievements&achievement=galaxy-brain) by @Sriansh-raj
   
