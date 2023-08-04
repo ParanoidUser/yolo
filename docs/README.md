@@ -4,15 +4,15 @@
 [![badges](https://img.shields.io/badge/badge%20hunt-246-red.svg)](https://github.com/ParanoidUser/yolo/blob/main/docs/CHANGELOG.md)
 [![discussions](https://img.shields.io/github/discussions/ParanoidUser/yolo?color=%23ED8936)](https://github.com/ParanoidUser/yolo/discussions)
 
-Welcome aboard, fellow developers! This is the place where you can hunt down (and even catch) one of those shiny [GitHub badges](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) for your profile. The mission is simple: *collaborate, have fun, and earn badges*.
+Welcome aboard, fellow developers! This is the place where you can hunt down (and even catch) one of those shiny [GitHub badges](https://github.blog/2022-06-09-introducing-achievements-recognizing-the-many-stages-of-a-developers-coding-journey/) for your profile. The mission is simple: *collaborate, have fun and earn badges*.
 
 ## Background
 
-> **con·trib·ute** /kənˈtrɪbjut/ (verb) - to give money, goods, or your time and effort in order to achieve something, especially when other people are also helping. 
+> **con·trib·ute** /kənˈtrɪbjut/ (verb) - to give money, goods or your time and effort in order to achieve something, especially when other people are also helping. 
 
 Sometimes, no matter how bright and beautiful your ideas are, there is no one around to help and support you with them. You're not alone! There are now [100 million developers](https://github.blog/2023-01-25-100-million-developers-and-counting/) around the world using GitHub, and nothing could be more discouraging than sitting and waiting forever for someone to come by your project.
 
-Whether your goal is to master Git merging, help to solve an issue or ask for feedback, this repository is here for you. The good news, you can earn some awesome profile badges along the route!
+Whether your goal is to master Git merging or help to solve an issue or ask for feedback, this repository is here for you. The good news, you can earn some awesome profile badges along the route!
 
 ## Where to start?
 
