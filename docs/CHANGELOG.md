@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-10-08
+- [Galaxy Brain](https://github.com/lucas-0liveira?tab=achievements&achievement=galaxy-brain) by @lucas-0liveira
+- [Pair Extraordinaire](https://github.com/lucas-0liveira?achievement=pair-extraordinaire&tab=achievements) by @lucas-0liveira
+- [YOLO](https://github.com/lucas-0liveira?achievement=yolo&tab=achievements) by @lucas-0liveira
+
 ## 2023-07-21
 - [YOLO](https://github.com/NomanGhiasy?achievement=yolo&tab=achievements) by @NomanGhiasy
 - [Pair Extraordinaire](https://github.com/NomanGhiasy?achievement=pair-extraordinaire&tab=achievements) by @NomanGhiasy
