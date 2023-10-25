@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023-10-25
+- [YOLO](https://github.com/Sajansharma0017?tab=achievements&achievement=yolo) by @Sajansharma0017
+- [Pull Shark](https://github.com/Sajansharma0017?tab=achievements&achievement=pull-shark) by @Sajansharma0017
+
 ## 2023-07-21
 - [YOLO](https://github.com/NomanGhiasy?achievement=yolo&tab=achievements) by @NomanGhiasy
 - [Pair Extraordinaire](https://github.com/NomanGhiasy?achievement=pair-extraordinaire&tab=achievements) by @NomanGhiasy
