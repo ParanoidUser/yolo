@@ -1,24 +1,5 @@
 145 bottles of rum on the wall, 145 bottles of rum!  
-You take one down, you pass it around, 144 bottles of rum on the wall.
-
-144 bottles of rum on the wall, 144 bottles of rum!  
-You take one down, you pass it around, 143 bottles of rum on the wall.
-
-143 bottles of rum on the wall, 143 bottles of rum!  
-You take one down, you pass it around, 142 bottles of rum on the wall.
-
-142 bottles of rum on the wall, 142 bottles of rum!  
-You take one down, you pass it around, 141 bottles of rum on the wall.
-
-141 bottles of rum on the wall, 141 bottles of rum!  
-You take one down, you pass it around, 140 bottles of rum on the wall.
-
-140 bottles of rum on the wall, 140 bottles of rum!  
-You take one down, you pass it around, 139 bottles of rum on the wall.
-
-139 bottles of rum on the wall, 139 bottles of rum!  
-You take one down, you pass it around, 138 bottles of rum on the wall.
-
+You take one down, you pass it around, 144 bot
 138 bottles of rum on the wall, 138 bottles of rum!  
 You take one down, you pass it around, 137 bottles of rum on the wall.
 
